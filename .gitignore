@@ -1,0 +1,4 @@
+run/
+logs/
+models/iris_drone*/
+__pycache__/
